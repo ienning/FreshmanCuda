@@ -1,0 +1,99 @@
+# ---> C++
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+*.vcxproj.user
+
+# Visual Studio project files
+.vs/
+*/x64/
+x64/
+
+# Directory
+data/*
+
+
+*~lock*
+
+/MCLAOISolution/result.bmp
+
+MCLAOISolution/result.bmp
+
+MicroLEDCalibrator/out/
+/MCLAOISolution/Processors/AccoPowerProcessor/x64
+/MCLAOISolution/Algorithm/x64
+/MCLAOISolution/DXAnalysisTools/x64
+/MCLAOISolution/data/*
+
+/MCLAOISolution/DexinAlgorithm/x64
+
+MCLAOISolution/DexinAlgorithm/x64/
+
+*.odg#
+/MCLAOISolution/AlgorithmTool/x64
+/MCLAOISolution/libDXAlgoLocate/x64/Release
+/MCLAOISolution/libDXAlgorithm/x64/Release
+/MCLAOISolution/libDXPackage/x64
+/MCLAOISolution/libDXOpen/x64
+/MCLAOISolution/APPDXFrameworkBuilder/TestData
+/MCLAOISolution/APPDXFrameworkBuilder/x64/Release
+*.dat
+*.csv
+*.yaml
+*.dxloc
+/MCLAOISolution/libDXFramework/x64/Release
+/MCLAOISolution/APPAlgorithmVisual/x64/Release
+/MCLAOISolution/APPAlgorithmVisual/BinFile
+/MCLAOISolution/APPDXResultViewer/x64/Release
+/MCLAOISolution/libDXAlgorithmCUDA/x64/Release
+/res
+/MCLAOISolution/APPAlgorithmVisual/x64/Debug
+/MCLAOISolution/APPAlgorithmVisual/x64/Release
+/MCLAOISolution/APPDXResultViewer/x64/Debug
+/MCLAOISolution/APPDXResultViewer/x64/Release
+/MCLAOISolution/libDXAlgorithm/x64/Debug
+/MCLAOISolution/libDXAlgorithm/x64/Release
+/MCLAOISolution/libDXAlgorithmCUDA/x64/Debug
+/MCLAOISolution/libDXAlgorithmCUDA/x64/Release
+/MCLAOISolution/libDXFramework/x64/Debug
+/MCLAOISolution/libDXFramework/x64/Release
+/MCLAOISolution/libDXOpen/x64/Debug
+/MCLAOISolution/libDXOpen/x64/Release
+/MCLAOISolution/libDXPackage/x64/Debug
+/MCLAOISolution/libDXPackage/x64/Release
+
+/Demo/*
+
+/MicroLEDDetectionServerApp/res/setting/zz.ini
+
+CMakeFiles
+.cmake
+CMakeCache.txt
+VSInheritEnvironments.txt
+*.pdb
+
+.vscode
+MCLAOIAPP.vcxproj.user
